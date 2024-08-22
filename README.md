@@ -53,12 +53,18 @@ A simple weather app built with React Native and TypeScript. The app allows user
 ```
 
 4. **Run the app**
+
    For android
+
    ```
    npm run android
    ```
-   android: npm run android
-   ios: npm run ios
+
+   For ios
+
+   ```
+   npm run ios
+   ```
 
 ## Folder Structure
 
