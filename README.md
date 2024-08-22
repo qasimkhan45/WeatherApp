@@ -40,9 +40,17 @@ A simple weather app built with React Native and TypeScript. The app allows user
 
 3. **Navigate to the project directory**
 
+```bash
    npm install
+```
+
+```
    cd ios
+```
+
+```
    pod install
+```
 
 4. **Run the app**
 
